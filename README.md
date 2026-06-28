@@ -14,7 +14,7 @@ A lightweight and efficient machine learning model designed to detect and filter
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
-* **Libraries:** Scikit-learn
+* **Libraries:** Scikit-learn, pandas
 
 ## 📦 Installation & Setup
 
