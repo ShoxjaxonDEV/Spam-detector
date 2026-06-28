@@ -10,7 +10,7 @@ A lightweight and efficient machine learning model designed to detect and filter
 ## 🚀 Features
 * **Real-time Classification:** Quickly identifies whether a message is **Spam** or **Ham** (legitimate).
 * **NLP Preprocessing:** Text cleaning, tokenization, and stop-words removal for better accuracy.
-* **Easy Integration:** Simple API structure that can be integrated into web apps, Telegram bots, or email services.
+* **Easy Integration:** Simple API structure that can be integrated into Telegram bots, or email services.
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
